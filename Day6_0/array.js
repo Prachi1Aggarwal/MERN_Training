@@ -17,3 +17,12 @@ console.log(arr2[3])
 //WAY 3
 const arr3= new Array('A','B','C');
 console.log(arr3);
+
+const a1=['A','B','C']
+console.log(a1);
+
+const a2 = [10];
+const a3 = new Array(10);
+console.log(a2);
+console.log(a3);
+console.log(a3[0]);
